@@ -1,0 +1,57 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.094 seconds
+Platform assembly: D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\study\취업준비\포트폴리오\2학년 2학기-슈퍼워터보이\swb\SWB_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.471309 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342913 ms
+fucl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.188049 ms (FindLiveObjects: 0.017777 ms CreateObjectMapping: 0.012246 ms MarkObjects: 0.149728 ms  DeleteObjects: 0.007506 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.604645 ms
+fucl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.186074 ms (FindLiveObjects: 0.013827 ms CreateObjectMapping: 0.033580 ms MarkObjects: 0.134716 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.409284 ms
+fucl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.234271 ms (FindLiveObjects: 0.050172 ms CreateObjectMapping: 0.016592 ms MarkObjects: 0.163160 ms  DeleteObjects: 0.004345 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b170 -> priority: 1 
+  Thread -> id: bcf0 -> priority: 1 
